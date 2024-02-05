@@ -12,19 +12,8 @@
 
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
 
-# Your thesis title
 
-You should structure this template losely based on the [Data Science Cookiecutter Template](https://drivendata.github.io/cookiecutter-data-science/).
 
-> Add a short description here!
-
-A longer description of your project goes here...
-
-## Resources
-
-- [Module description](https://pruefung.uni-rostock.de/qisserver/rds?state=verpublish&publishContainer=modulDetail&_form=publish&modulversion.versionsid=1911&menuid=&topitem=functions&subitem=)
-- [Slides](https://docs.google.com/presentation/d/1qwUz0eg1OcIwoLsKATCWqk_hMxS4W1usNYqVQCPMkqk/edit?usp=sharing)
-- [Overleaf](https://overleaf.uni-rostock.de/4574528729bmfjhgdpcrwj)
 
 ## Papers
 
