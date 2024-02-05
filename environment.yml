@@ -1,0 +1,7 @@
+name: thesis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pyscaffoldext-markdown
+  - pyscaffold
